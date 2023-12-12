@@ -14,13 +14,13 @@
 .boximage
 {
     height: 280px;
-    width: 350px;
+    width: 100%;
 }
 .boximage img
 {
     height: 100%;
     width: 100%;
-    padding-right: 3px;
+    /* padding-right: 3px; */
 }
 .box1 h1
 {
